@@ -5,6 +5,7 @@
   padding: 0.6rem 1.6rem;
   border: 3px solid currentColor;
   border-radius: 1rem;
+  background-color: #242424;
 }
 
 .description__text {

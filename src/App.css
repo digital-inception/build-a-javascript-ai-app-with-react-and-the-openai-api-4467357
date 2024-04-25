@@ -8,6 +8,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 4rem;
+  background-color: #242424;
 }
 
 .header {
@@ -18,7 +19,7 @@
   height: 100%;
   padding: 2rem;
   border-radius: 1rem;
-  background: hsl(0, 0%, 95%);
+  background: #242424;
 }
 
 .page-title {

@@ -1,7 +1,7 @@
 .loader {
   grid-row: 1/-1;
   grid-column: 1/-1;
-  background: hsl(0, 0%, 95%);
+  background: #242424;
   display: flex;
   justify-content: center;
   align-items: center;
